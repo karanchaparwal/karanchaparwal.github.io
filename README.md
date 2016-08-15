@@ -1,3 +1,2 @@
-# Girdhari Agrawal Portfolio
-
-This repository contains code for Girdhari Agrawal, Full Stack Javascript Developer's Portfolio
+#Karan Chaparwal Portfolio
+This is the repository for karanchaparwal.github.io the portfolio for karanchaparwal
